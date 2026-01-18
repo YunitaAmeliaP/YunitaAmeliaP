@@ -22,21 +22,21 @@ I am a **Data Science enthusiast** with a strong academic background in data sci
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/google-colab.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/rstudio.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftexcel.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftword.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecolab.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/rstudio.svg" width="40"/>
 </p>
 
 ---
 
 ## 🔗 Let’s Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/yunitaameliapuspitasari" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  <a href="https://www.linkedin.com/in/yunitaameliapuspitasari/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40"/>
   </a>
-  <a href="https://instagram.com/aameliaa.y?igsh=MWVucGl6bzl2azIyOA==" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+  <a href="https://www.instagram.com/aameliaa.y/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40"/>
   </a>
 </p>
