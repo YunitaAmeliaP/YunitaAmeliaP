@@ -4,7 +4,7 @@ I am a **Data Science enthusiast** with a strong academic background in data sci
 
 ---
 
-## 📈 Growing Skills
+## 📈 Skills
 - Data Analysis & Statistics  
 - Data Cleaning & Preprocessing  
 - Machine Learning  
